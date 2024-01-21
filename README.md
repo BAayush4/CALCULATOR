@@ -12,14 +12,6 @@
 <li>Intuitive user interface with clickable buttons.</li>
 </ul>  
 <hr>
-<h3><b>HOW TO VIEW MY PROJECT</b>?</h3>
-<ol>
-  <li>Open my profile</li>
-  <li>Go to  <b>"Repositories"</b></li>
-  <li>Select   <i><b>"Calculator"</b></i>   Repository</li>
-  <li>Under  <b>"About"</b>    section open the link to the live github page of my project</li>
-</ol>
-<hr>
 <h3><b>LANGUAGES USED-</b></h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/ title="CSS"> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"title="HTML"> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"title="JavaScript"> </a>
 
